@@ -9,7 +9,7 @@
 
 Quick Installation steps: 
 1. Verify you have Python interpreter version 2.7+ installed on your computer.
-2. Download [HomesteadGrasshopper.py](HomesteadGrasshopper.py)
+2. Download [HomesteadGrasshopper.py](https://github.com/updivision/Homestead-Grasshopper-adds-sites-to-Laravel-Homestead-Vagrant/HomesteadGrasshopper.py)
 3. Open the terminal and type  ```$sudo python add_site_to_vagrant.py your_site_name```  to veriy if the installation was successfull.
 [See instructions for using Homestead Grasshopper](#instructions-for-using-homestead-grasshopper)
 ---
@@ -17,14 +17,14 @@ Quick Installation steps:
 For using Homestead Grasshopper, you will need Python interpreter version 2.7+ installed on your computer.
 
 Python comes preinstalled on most Linux distributions, and is available as a package on all others. 
-- If you need more information, for Linux, see https://docs.python.org/2/using/unix.html
-- For Mac OS, see https://docs.python.org/2/using/mac.html
-- For Windows, see https://docs.python.org/2/using/windows.html
+- If you need more information, for **Linux** see https://docs.python.org/2/using/unix.html
+- For **Mac OS** see https://docs.python.org/2/using/mac.html
+- For **Windows** see https://docs.python.org/2/using/windows.html
 
 After you have installed Python interpreter, you are ready to use Homestead Grasshopper.
 
-#### 2. Download [HomesteadGrasshopper.py](HomesteadGrasshopper.py)
-Now all you have to do is just download the HomesteadGrasshopper.py script on your computer in any directory. 
+#### 2. Download [HomesteadGrasshopper.py](https://github.com/updivision/Homestead-Grasshopper-adds-sites-to-Laravel-Homestead-Vagrant/HomesteadGrasshopper.py)
+Now all you have to do is just download the HomesteadGrasshopper.py script from [https://github.com/updivision/Homestead-Grasshopper-adds-sites-to-Laravel-Homestead-Vagrant/HomesteadGrasshopper.py](https://github.com/updivision/Homestead-Grasshopper-adds-sites-to-Laravel-Homestead-Vagrant/HomesteadGrasshopper.py) on your computer in any directory. 
 
 #### 3. Open the terminal and run the script
 Open the terminal (on macOS or Linux) or Command Prompt(Windows) and type your first command:
