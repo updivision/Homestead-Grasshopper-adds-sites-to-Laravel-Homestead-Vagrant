@@ -11,7 +11,7 @@ Quick Installation steps:
 1. Verify you have Python interpreter version 2.7+ installed on your computer.
 2. Download [HomesteadGrasshopper.py](HomesteadGrasshopper.py)
 3. Open the terminal and type  ```$sudo python add_site_to_vagrant.py your_site_name```  to veriy if the installation was successfull.
-[See instructions for using Homestead Grasshopper](https://github.com/updivision/Homestead-Grasshopper-adds-sites-to-Laravel-Homestead-Vagrant#instructions-for-using-homestead-grasshopper)
+[See instructions for using Homestead Grasshopper](#instructions-for-using-homestead-grasshopper)
 ---
 #### 1. Python install
 For using Homestead Grasshopper, you will need Python interpreter version 2.7+ installed on your computer.
