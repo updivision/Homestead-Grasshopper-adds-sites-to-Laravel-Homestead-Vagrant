@@ -74,6 +74,9 @@ If the following message appears, the install was successful.
 
 **Warning! After you run the above commands, do not forget to run ```vagrant reload --provision'``` in the Homestead directory.**
 
+# Screenshots
+![screenshot 1](https://github.com/updivision/Homestead-Grasshopper-adds-sites-to-Laravel-Homestead-Vagrant/blob/master/screenshots/HomesteadGrasshopper1.png?raw=true)
+![screenshot 2](https://github.com/updivision/Homestead-Grasshopper-adds-sites-to-Laravel-Homestead-Vagrant/blob/master/screenshots/HomesteadGrasshopper2.png?raw=true)
 # FAQ
 #### Q: The site was not added after running ```$python HomesteadGrasshopper.py your_site_name```. What should I do?
 
