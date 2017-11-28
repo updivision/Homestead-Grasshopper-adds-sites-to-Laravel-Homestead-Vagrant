@@ -24,7 +24,7 @@ Python comes preinstalled on most Linux distributions, and is available as a pa
 After you have installed Python interpreter, you are ready to use Homestead Grasshopper.
 
 #### 2. Download [HomesteadGrasshopper.py](https://github.com/updivision/Homestead-Grasshopper-adds-sites-to-Laravel-Homestead-Vagrant/HomesteadGrasshopper.py)
-Now all you have to do is just download the HomesteadGrasshopper.py script from [https://github.com/updivision/Homestead-Grasshopper-adds-sites-to-Laravel-Homestead-Vagrant/HomesteadGrasshopper.py](https://github.com/updivision/Homestead-Grasshopper-adds-sites-to-Laravel-Homestead-Vagrant/HomesteadGrasshopper.py) on your computer in any directory. 
+Now all you have to do is just download the HomesteadGrasshopper.py script from [this link](https://github.com/updivision/Homestead-Grasshopper-adds-sites-to-Laravel-Homestead-Vagrant/HomesteadGrasshopper.py) on your computer in any directory. 
 
 #### 3. Open the terminal and run the script
 Open the terminal (on macOS or Linux) or Command Prompt(Windows) and type your first command:
