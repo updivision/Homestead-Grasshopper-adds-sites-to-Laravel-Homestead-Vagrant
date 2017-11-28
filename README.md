@@ -66,7 +66,7 @@ If the following message appears, the install was successful.
    ``` 
   $sudo python HomesteadGrasshopper.py your_site_name
 	--config.site_address="192.168.10.10"
-	--config.hosts_path="/etc/.hosts"
+	--config.hosts_path="/etc/hosts"
 	--config.homestead_yaml_path="Homestead/Homestead.yaml"
 	--config.folder="public" --config.site_extension="dev"
 ```
