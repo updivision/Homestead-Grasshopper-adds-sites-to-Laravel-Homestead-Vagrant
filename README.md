@@ -16,11 +16,10 @@ Quick Installation steps:
 #### 1. Python install
 For using Homestead Grasshopper, you will need Python interpreter version 2.7+ installed on your computer.
 
-Python comes preinstalled on most Linux distributions, and is available as a package on all others. If you need more information, see https://docs.python.org/2/using/unix.html
-
-For Mac OS, see https://docs.python.org/2/using/mac.html
-
-For Windows, see https://docs.python.org/2/using/windows.html
+Python comes preinstalled on most Linux distributions, and is available as a package on all others. 
+- If you need more information, for Linux, see https://docs.python.org/2/using/unix.html
+- For Mac OS, see https://docs.python.org/2/using/mac.html
+- For Windows, see https://docs.python.org/2/using/windows.html
 
 After you have installed Python interpreter, you are ready to use Homestead Grasshopper.
 
