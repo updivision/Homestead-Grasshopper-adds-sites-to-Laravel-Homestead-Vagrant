@@ -72,10 +72,10 @@ If the following message appears, the install was successful.
 ```
 *Note: If you are using Windows, do not use the "sudo" command, just type ```python HomesteadGrasshopper.py ..... ```*
 
-**Warning! After you run the above commands, do not forget to run ```vagrant reload --provision' in Homestead directory.```**
+**Warning! After you run the above commands, do not forget to run ```vagrant reload --provision'``` in the Homestead directory.**
 
 # FAQ
-#### Q: The site was not added after running the ```$python HomesteadGrasshopper.py your_site_name```. What should I do?
+#### Q: The site was not added after running ```$python HomesteadGrasshopper.py your_site_name```. What should I do?
 
  **A1:** *If you are using Linux or macOS, maybe you forgot to run the script as administrator (using "sudo" command).*
 Try ```$sudo python HomesteadGrasshopper.py your_site_name```
