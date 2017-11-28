@@ -12,7 +12,6 @@ Quick Installation steps:
 2. Download [HomesteadGrasshopper.py](HomesteadGrasshopper.py)
 3. Open the terminal and type  ```$sudo python add_site_to_vagrant.py your_site_name```  to veriy if the installation was successfull.
 [See instructions for using Homestead Grasshopper](https://github.com/updivision/Homestead-Grasshopper-adds-sites-to-Laravel-Homestead-Vagrant#instructions)
-4. Run ```vagrant reload --provision``` in **Homestead directory**
 ---
 #### 1. Python install
 For using Homestead Grasshopper, you will need Python interpreter version 2.7+ installed on your computer.
@@ -38,7 +37,7 @@ If the following message appears, the install was successful.
 
 ``Are you sure you want to add site test to Homestead? (in /etc/hosts and Homestead.yaml)``
 
-*Warning! After running the script and adding site, do not forget to run 'vagrant reload --provision' in Homestead directory.*
+
 # Instructions for using Homestead Grasshopper
 
 #### (1) QUICK COMMAND for adding a site to Homestead:
@@ -74,5 +73,15 @@ If the following message appears, the install was successful.
 ```
 *Note: If you are using Windows, do not use the "sudo" command, just type ```python HomesteadGrasshopper.py ..... ```*
 
-**Warning! After you run the above commands, do not forget to run 'vagrant reload --provision' in Homestead directory.**
+**Warning! After you run the above commands, do not forget to run ```vagrant reload --provision' in Homestead directory.```**
 
+# FAQ
+- Q: Why the site was not added after running the ```$python HomesteadGrasshopper.py your_site_name```command?
+
+&nbsp; &nbsp; &nbsp; *A1: If you are using Linux or macOS, maybe you forgot to run the script as administrator (using "sudo" command).*
+Try ```$sudo python HomesteadGrasshopper.py your_site_name```
+
+&nbsp; &nbsp; &nbsp; *A2: You didn't run ```$vagrant reload --provision``` in Homestead directory after running the HomesteadGrasshopper.py script*
+
+# Contributors
+- [Diana Marusic](https://github.com/mdiannna)
