@@ -1,6 +1,8 @@
 # Homestead Grasshopper: A super script that adds sites automatically to Laravel Homestead (Vagrant).
 ## Description
-**Homestead Grasshopper** is a script that automatically adds sites in the Laravel Homestead (Vagrant) environment and “hosts” file. More precisely, it adds the site name and address in the “hosts” file and file paths in Homestead.yaml.   You can just add your site name when running the script and you are done. Or, if you are the control freak type, you can manually configure the site address, hosts file path and more.  The program was created using Python programming language, so it will work on most used OS. That includes Windows, macOS and Linux (Python is pre-installed on most Linux distributions).
+**Homestead Grasshopper** is a script that automatically adds sites in the Laravel Homestead (Vagrant) environment and “hosts” file. More precisely, it adds the site name and address in the “hosts” file and file paths in Homestead.yaml.   You can just add your site name when running the script and you are done. Or, if you are the control freak type, you can manually configure the site address, hosts file path and more.  
+
+The program was created using Python programming language, so it will work on most used OS. That includes Windows, macOS and Linux (Python is pre-installed on most Linux distributions).
 
 ## Requirements
 - Python version 2.7+
