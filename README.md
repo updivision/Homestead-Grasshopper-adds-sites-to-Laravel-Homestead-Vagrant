@@ -36,7 +36,7 @@ Open the terminal (on macOS or Linux) or Command Prompt (Windows) and type your 
 
 If the following message appears, the install was successful.
 
-``Are you sure you want to add site test to Homestead? (in /etc/hosts and Homestead.yaml)``
+``Are you sure you want to add site your_site_name to Homestead? (in /etc/hosts and Homestead.yaml)``
 
 
 # Instructions for using Homestead Grasshopper
