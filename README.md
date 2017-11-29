@@ -4,6 +4,8 @@
 
 The program was created using Python programming language, so it will work on most used OS. That includes Windows, macOS and Linux (Python is pre-installed on most Linux distributions).
 
+**Read the [launch blog post](https://updivision.com/blog/post/homestead-grasshopper-adds-sites-automatically-to-laravel-homestead) to find out more about the author.**
+
 ## Requirements
 - Python version 2.7+
 
