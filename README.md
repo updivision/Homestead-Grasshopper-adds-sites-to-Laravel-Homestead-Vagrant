@@ -40,6 +40,8 @@ If the following message appears, the install was successful.
 
 
 # Instructions for using Homestead Grasshopper
+### To access the script instructions manual, run the command:
+```$python HomesteadGrasshopper.py --help```
 
 #### (1) QUICK COMMAND for adding a site to Homestead:
 
