@@ -45,7 +45,7 @@ If the following message appears, the install was successful.
 
 - Linux/macOS:
 
-&nbsp;```$sudo python HomesteadGrasshoppert.py your_site_name```
+&nbsp;```$sudo python HomesteadGrasshopper.py your_site_name```
 
 - Windows:
 
