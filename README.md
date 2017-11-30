@@ -14,7 +14,7 @@ The program was created using Python programming language, so it will work on mo
 **Quick Installation steps:**
 1. Verify you have **Python version 2.7+** installed on your computer.
 2. Download [HomesteadGrasshopper.py](https://github.com/updivision/Homestead-Grasshopper-adds-sites-to-Laravel-Homestead-Vagrant/blob/master/HomesteadGrasshopper.py)
-3. Open the terminal and type  ```$sudo python add_site_to_vagrant.py your_site_name```  to veriy if the installation was successfull.
+3. Open the terminal and type  ```$sudo python HomesteadGrasshopper.py your_site_name```  to veriy if the installation was successfull.
 [See instructions for using Homestead Grasshopper](#instructions-for-using-homestead-grasshopper)
 ---
 **Detailed Installation steps:**
